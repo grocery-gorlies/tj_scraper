@@ -1,0 +1,12 @@
+{
+  "version": 1,
+  "url": "https://hanpoom.com/",
+  "bind": {
+    "address": "127.0.0.1",
+    "port": 8080
+  },
+  "data": {
+    "a": [1, 2, 3],
+    "b": 2.5
+  }
+}
